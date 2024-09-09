@@ -1,17 +1,17 @@
 ### All Rights Reserved
 
-### caution
+Project quick go through
+
+https://github.com/user-attachments/assets/5ed34b1e-d40d-4115-9944-30f6247cd5d0
+
+
+
 
 ### frontend
-```
-npm create vite@latest
-```
+
+Single React component with Vite
+
 ### backend
-```
-pip install django django-cors-headers
-django-admin startproject demo .
-python manage.py startapp demoApp
-```
 
 # test api endpoint
 ```
